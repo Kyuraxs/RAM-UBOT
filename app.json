@@ -9,8 +9,8 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/ramadhani892/RAM-UBOT",
-  "telegram": "https://t.me/Ramadhaniiiiiii1",
+  "repository": "https://github.com/Kyuraxs/RAM-UBOT",
+  "telegram": "https://t.me/KyuraOnly",
   "success_url": "https://t.me/ootspambott",
   "stack": "container",
   "env": {
@@ -23,7 +23,7 @@
       "required": true
     },
      "STRING_SESSION": {
-      "description": "Dapatkan String Session di termux caranya ada di repo, jika tidak tau reponya tanya ke @VckyouuBitch di telegram",
+      "description": "Dapatkan String Session di termux caranya ada di repo, jika tidak tau reponya tanya ke @KyuraOnly di telegram",
       "required": true
     },
     "HEROKU_APP_NAME": {
